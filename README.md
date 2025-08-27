@@ -1,6 +1,6 @@
 <h1 align="center">BeatCoins</h1>
 <p align="center">
-  BeatCoins is a full-stack cryptocurrency dashboard that provides real-time and historical data visualization using Flask (Python) for the backend, SQL for the database, and React for the frontend.
+  BeatCoins is a full-stack cryptocurrency dashboard that provides real-time and historical data visualization using Python (Flask) for the backend, SQL for the database, and React for the frontend.
 </p>
 
 <hr/>
