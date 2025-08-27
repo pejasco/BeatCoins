@@ -18,7 +18,7 @@
 
 <h2 id="about">📖 About</h2>
 <p>
-BeatCoins is a web application that allows users to monitor cryptocurrency prices in real time, visualize historical trends, and download data for further analysis. The backend is built with Flask and SQLAlchemy, fetching data from Binance and other APIs, while the frontend is a modern React app for interactive charts and user experience.
+BeatCoins is a web application that allows users to monitor cryptocurrency prices in real time, visualize historical trends, and download data for further analysis. The backend is built with Flask and SQL, fetching data from Binance, while the frontend is a modern React app for interactive charts and user experience.
 </p>
 
 <h2 id="features">✨ Features</h2>
